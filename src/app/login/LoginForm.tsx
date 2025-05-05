@@ -13,7 +13,7 @@ import LoginInput from "./(loginComponents)/LoginInput";
 import CloseButton from "./(loginComponents)/CloseButton";
 import LoginBar from './(loginComponents)/LoginBar';
 import ButtonComponent from '@/app/(components)/Buttons/ButtonComponent';
-import RegisterForm from "../register/RegisterForm";
+import RegisterForm from "./../register/registerForm";
 
 interface LoginFormProps {
   localState?: boolean;
